@@ -1,0 +1,7 @@
+11-05 02:39:52.342    1097-1097/com.cs639.petergailmcfayden.cs639lab3 D/dalvikvm? GC_FOR_ALLOC freed 41K, 4% free 2991K/3108K, paused 24ms, total 25ms
+11-05 02:39:52.442    1097-1097/com.cs639.petergailmcfayden.cs639lab3 I/dalvikvm-heap? Grow heap (frag case) to 19.366MB for 17169424-byte allocation
+11-05 02:39:52.482    1097-1106/com.cs639.petergailmcfayden.cs639lab3 D/dalvikvm? GC_FOR_ALLOC freed 1K, 1% free 19757K/19876K, paused 38ms, total 38ms
+11-05 02:39:53.232    1097-1097/com.cs639.petergailmcfayden.cs639lab3 D/gralloc_goldfish? Emulator without GPU emulation detected.
+11-05 02:40:23.632    1097-1097/com.cs639.petergailmcfayden.cs639lab3 I/My Activity? Next button was pressed
+11-05 02:41:22.232    1097-1097/com.cs639.petergailmcfayden.cs639lab3 I/My Activity? Previous button was pressed
+11-05 02:41:25.242    1097-1097/com.cs639.petergailmcfayden.cs639lab3 I/My Activity? Next button was pressed

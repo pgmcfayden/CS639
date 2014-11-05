@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS639Lab3</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="cs_639_lab_3">CS 639 Lab 3</string>
+    <string name="empire_state_building">Empire State Building</string>
+
+    <string name="prev_string">Prev</string>
+    <string name="next_string">Next</string>
+
+</resources>

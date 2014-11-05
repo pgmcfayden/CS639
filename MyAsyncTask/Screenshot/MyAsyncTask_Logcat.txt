@@ -1,0 +1,14 @@
+11-05 02:49:19.202    1190-1190/com.cs639.petergailmcfayden.myasynctask D/gralloc_goldfish? Emulator without GPU emulation detected.
+11-05 02:50:10.652    1190-1190/com.cs639.petergailmcfayden.myasynctask I/MainActivity? Button clicked to fetch image!
+11-05 02:50:11.062    1190-1190/com.cs639.petergailmcfayden.myasynctask D/dalvikvm? GC_FOR_ALLOC freed 66K, 5% free 3220K/3364K, paused 36ms, total 38ms
+11-05 02:50:11.072    1190-1190/com.cs639.petergailmcfayden.myasynctask I/dalvikvm-heap? Grow heap (frag case) to 4.291MB for 1127536-byte allocation
+11-05 02:50:11.112    1190-1199/com.cs639.petergailmcfayden.myasynctask D/dalvikvm? GC_FOR_ALLOC freed 4K, 4% free 4317K/4468K, paused 31ms, total 31ms
+11-05 02:50:11.362    1190-1190/com.cs639.petergailmcfayden.myasynctask I/AsyncTaskActivity? Starting the AsyncTask Image Fetching Activity!
+11-05 02:50:11.372    1190-1216/com.cs639.petergailmcfayden.myasynctask I/ImageDownloader? Going to fetch image
+11-05 02:50:11.812    1190-1190/com.cs639.petergailmcfayden.myasynctask I/Choreographer? Skipped 42 frames!  The application may be doing too much work on its main thread.
+11-05 02:50:13.162    1190-1216/com.cs639.petergailmcfayden.myasynctask D/dalvikvm? GC_FOR_ALLOC freed 135K, 5% free 4542K/4756K, paused 50ms, total 50ms
+11-05 02:50:13.212    1190-1216/com.cs639.petergailmcfayden.myasynctask I/dalvikvm-heap? Grow heap (frag case) to 6.133MB for 1705616-byte allocation
+11-05 02:50:13.262    1190-1199/com.cs639.petergailmcfayden.myasynctask D/dalvikvm? GC_FOR_ALLOC freed <1K, 4% free 6206K/6424K, paused 51ms, total 51ms
+11-05 02:50:14.622    1190-1190/com.cs639.petergailmcfayden.myasynctask I/Choreographer? Skipped 276 frames!  The application may be doing too much work on its main thread.
+11-05 02:50:15.182    1190-1190/com.cs639.petergailmcfayden.myasynctask I/ImageDownloader? Image fetched, isn't the Golden Gate Beautiful!
+11-05 02:50:15.182    1190-1190/com.cs639.petergailmcfayden.myasynctask I/Choreographer? Skipped 30 frames!  The application may be doing too much work on its main thread.

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAsyncTask</string>
+
+    <string name="fetch_text">Press the button to fetch an image</string>
+    <string name="fetch_image">Go Fetch The Image Using AsyncTask</string>
+    <string name="fetch_description">Fetched image from website</string>
+</resources>

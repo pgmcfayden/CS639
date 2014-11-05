@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CS639Lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="cs_639_lab_1">CS 639 Lab 1</string>
+
+    <string name="prev_string">Prev</string>
+    <string name="next_string">Next</string>
+
+    <string name="my_pic_description">My profile pic</string>
+    <string name="first_name">Petergail</string>
+    <string name="last_name">McFayden</string>
+
+    <string name="cs612">CS 612</string>
+    <string name="cs639">CS 639</string>
+    <string name="cs654">CS 654</string>
+
+</resources>
