@@ -5,6 +5,8 @@
     <string name="title">Weather To Wear</string>
     <string name="app_statement">Don't let the weather "wear" you out...</string>
 
+    <string name="weatherdisplay">Current Weather Description</string>
+
     <string name="male">Male</string>
     <string name="female">Female</string>
 

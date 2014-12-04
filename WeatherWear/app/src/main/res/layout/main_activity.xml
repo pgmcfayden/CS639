@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/weatherdisplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/weatherdisplay"
+            android:scaleType="fitXY"
+            android:src="@drawable/nyscreen" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/weardisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/head"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:contentDescription="What goes on your head"
+            android:src="@drawable/accs_gloves_hat_scarf" />
+
+        <ImageView
+            android:id="@+id/body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="What goes on your body"
+            android:src="@drawable/coat_coldweather" />
+
+        <ImageView
+            android:id="@+id/feet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:contentDescription="What goes on your feet"
+            android:src="@drawable/shoes_rainboats" />
+    </LinearLayout>
+
 
 </LinearLayout>
