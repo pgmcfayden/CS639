@@ -1,18 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Weather Wear</string>
     <string name="author_name">Petergail McFayden</string>
-
     <string name="title">Weather To Wear</string>
-    <string name="app_statement">Don't let the weather "wear" you out...</string>
-
     <string name="weatherdisplay">Current Weather Description</string>
-
     <string name="male">Male</string>
     <string name="female">Female</string>
-
     <string name="zipcode">Zipcode</string>
-
     <string name="temp_f">deg F</string>
     <string name="temp_c">deg C</string>
+    <string name="bg_color">#FFFFFF</string>
+    <string name="test_txt">65 F</string>
+    <string name="font_sz">50.0sp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Weather">Weather Wear</string>
 
 </resources>

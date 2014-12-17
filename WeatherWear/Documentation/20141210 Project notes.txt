@@ -1,0 +1,44 @@
+20141210 ToDo for CS639
+
+~ UPDATE SDK IN ANDROID DEVEOLPMENT
+~ 
+
+------------------------------------------------------------------------
+
+To retrieve the XML info from Yahoo
+
+Reverse geocoding using geographic coordinates:
+
+http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.placefinder%20where%20text%3D%2237.416275%2C%20-122.025092%22%20and%20gflags%3D%22R%22&appid=test
+
+http://query.yahooapis.com/v1/public/yq1?q=select%20*%20from%20geo.placefinder%20where%20text%3D%
+
+Why not just use the Yahoo! GeoPlanet service to resolve a place to a WOEID? Or use the YQL service to access GeoPlanet via it's table?
+
+http://where.yahooapis.com/v1/places.q('Barrie CA')?appid=[yourappidhere]
+
+http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Barrie%20CA%22&format=xml
+-------------------------------------------------------------------------
+
+* WEATHER WEAR TODOs
+
+1-create a fragment that updates each panel respectivily
+	Box #1 - 
+	Box #2 - 
+	Box #3 - 
+	Box #4 - 
+
+2-fake the weather and location to test the layout
+
+3-fake location to implement live weather
+
+3-implement live location to get live weather
+
+
+Box #1 
+
+
+
+Toast that ask for permissions for using GPS location
+Toast that notify that your not in the netowrk
+Toast that notify that you are using th network
