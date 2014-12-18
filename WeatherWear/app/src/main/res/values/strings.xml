@@ -12,8 +12,7 @@
     <string name="temp_c">deg C</string>
     <string name="bg_color">#FFFFFF</string>
     <string name="test_txt">65 F</string>
-    <string name="font_sz">50.0sp</string>
+    <string name="font_sz">100.0sp</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="Weather">Weather Wear</string>
 
 </resources>

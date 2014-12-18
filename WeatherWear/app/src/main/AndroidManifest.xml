@@ -9,7 +9,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/wearicon"
-        android:label="@string/Weather"
+        android:label="Weather Wear"
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"

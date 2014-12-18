@@ -7,10 +7,19 @@
     android:background="@drawable/titleimage">
 
     <ImageView
+        android:id="@+id/banner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:contentDescription="Banner image"
-        android:src="@drawable/weatherwearbanner"/>
+        android:src="@drawable/"/>
+
+    <ImageView
+        android:id="@+id/wunderground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:contentDescription="WUnderground Logo"
+        android:src="@drawable/wundergroundlogo"/>
 
 </LinearLayout>
